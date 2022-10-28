@@ -1,4 +1,4 @@
-## Web-scrapping на Python
+## Web-scraping на Python
 
 Попробуем получать интересующие нас статьи на [хабре](https://habr.com) самыми первыми :)
 
